@@ -30,7 +30,7 @@ const courseSchema = new mongoose.Schema({
     thumbnail:{
         type:String,
     },
-    tags:{
+    tag:{
         type:mongoose.Schema.Types.ObjectId,
         ref:"Tags",
     },
