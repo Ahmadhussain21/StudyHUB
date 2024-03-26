@@ -161,10 +161,7 @@ details for each instructor.
 3. Course schema: Includes fields such as course name, description, instructor details,
 and media content.
 
-Overall, the back-end of StudyNotion is designed to provide a robust and scalable solution
-for an ed-tech platform, with a focus on security, reliability, and ease of use. By using the
-right frameworks, libraries, and tools, we can ensure that the platform functions smoothly
-and provides an optimal user experience for all its users.
+
 
 
 ## API Design
