@@ -37,7 +37,7 @@ features and functionalities.
 
 ## System Architecture
 
-The StudyNotion ed-tech platform consists of three main components: the front end, the
+The StudyNotion is an ed-tech platform which consists of three main components: the front end, the
 back end, and the database. The platform follows a client-server architecture, with the
 front end serving as the client and the back end and database serving as the server.
 
