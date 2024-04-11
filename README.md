@@ -29,7 +29,7 @@ tools used.
 explanation of how these enhancements would improve the platform, estimated
 timeline and priority for implementing these enhancements.
 
-In summary, StudyNotion is a versatile and intuitive ed-tech platform that is designed to
+StudyNotion is a versatile and intuitive ed-tech platform that is designed to
 provide an immersive learning experience to students and a platform for instructors to
 showcase their expertise. In the following sections, we will delve into the technical details
 of the platform, which will provide a comprehensive understanding of the platform's
