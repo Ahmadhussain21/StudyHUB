@@ -20,7 +20,7 @@ used.
 3. Back-end: The description of the back-end architecture, features and functionalities of
 the back-end, frameworks, libraries, tools used, and data models and database schema.
 4. API Design: The description of the API design, list of API endpoints, their
-functionalities, and sample API requests and responses.
+functionalities, and sample API request and response.
 5. Deployment: The description of the deployment process, hosting environment and
 infrastructure, and deployment scripts and configuration.
 6. Testing: The description of the testing process, types of testing, test frameworks and
