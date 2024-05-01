@@ -116,7 +116,7 @@ library for React.
 
 ## Back End
 
-Description of the Back-end Architecture: 
+Description of the Back-end Architecture:
 StudyNotion uses a monolithic architecture, with the backend built using Node.js and
 Express.js, and MongoDB as the primary database. 
 
